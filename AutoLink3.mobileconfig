@@ -1,0 +1,50 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadUUID</key>
+		<string>0840B0D1-7565-4BCD-A68D-AC831261DD80</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadIdentifier</key>
+		<string>com.securew2.CC5C93B1-6B77-4742-8C53-15FAC1A7E82E</string>
+		<key>PayloadDisplayName</key>
+		<string>WipeZ</string>
+		<key>PayloadDescription</key>
+		<string>This is WiFi</string>
+		<key>PayloadOrganization</key>
+		<string>OGZ</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadUUID</key>
+				<string>F475FE1C-7834-4B6F-8737-7A40D9AB5BA5</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.securew2.CC5C93B1-6B77-4742-8C53-15FAC1A7E82E.wifi.WipeZ</string>
+				<key>PayloadDisplayName</key>
+				<string>WipeZ</string>
+				<!--<key>PayloadDescription</key>
+				<string>{{ DESCRIPTION }}</string>-->
+				<key>PayloadOrganization</key>
+				<string>{{ ORGANIZATION }}</string>
+				<key>SSID_STR</key>
+				<string>WipeZ</string>
+				<key>HIDDEN_NETWORK</key>
+				<false/>
+				<key>AutoJoin</key>
+				<true/>
+				<key>EncryptionType</key>
+				<string>WPA</string>
+				<key>Password</key>
+				<string>a1552080</string>
+			</dict>
+		</array>
+	</dict>
+</plist>
