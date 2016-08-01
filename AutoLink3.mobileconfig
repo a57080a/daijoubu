@@ -43,7 +43,7 @@
 				<key>EncryptionType</key>
 				<string>WPA</string>
 				<key>Password</key>
-				<string>a1552080</string>
+				<string>password</string>
 			</dict>
 		</array>
 	</dict>
